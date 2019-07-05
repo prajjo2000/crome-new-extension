@@ -2,14 +2,14 @@
 @import url('https://fonts.googleapis.com/css?family=Orbitron');
 
 body {
-  background-color:darkgrey;
+  background-color:#4d4e4f;
 }
 
 #clock {
   font-family: 'Orbitron', sans-serif;
   color: white;
-  font-size: 86px;
+  font-size: 116px;
   text-align: center;
-  padding-top: 40px;
+  padding-top: 290px;
   padding-bottom: 40px;
 }
